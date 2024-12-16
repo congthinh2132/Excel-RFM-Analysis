@@ -24,6 +24,13 @@ Dataset is available [here](https://www.kaggle.com/datasets/vivek468/superstore-
 - The Marketing Department aims to classify customer segments to tailor marketing programs for each group effectively. 
 - The Marketing Director has proposed utilizing the RFM model in Excel to segment customers. 
 - This approach will support launching marketing campaigns to express gratitude to loyal customers and nurture potential customers into becoming long-term supporters of the company.
+## II.  Data Preparation:
+
+## III. Data Visualization:
+
+## IV. Insights:
+
+## V. Customer Segments' Characteristics and Recommendations:
 
 
 
