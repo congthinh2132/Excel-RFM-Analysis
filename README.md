@@ -10,25 +10,34 @@ RFM analysis numerically ranks a customer in each of these three categories, gen
 
 These three RFM factors can be used to reasonably predict how likely (or unlikely) it is that a customer will do business again with a firm or, in the case of a charitable organization, make another donation.
 ### 2. Business Questions:
-- The Marketing Department aims to classify customer segments to tailor marketing programs for each group effectively. 
+- The Marketing Department aims to classify customer segments to tailor marketing programs for each group effectively.
 - The Marketing Director has proposed utilizing the RFM model in Excel to segment customers. 
 - This approach will support launching marketing campaigns to express gratitude to loyal customers and nurture potential customers into becoming long-term supporters of the company.
 
 ### 3. Dataset:
-The dataset represents transactional data from a Superstore Giant, providing key insights into customer segments, purchase behavior, and regional performance. It includes details critical for analyzing and understanding market trends. Key attributes include:
-- Customer Information: Unique customer IDs, customer names, and segment classifications (e.g., Consumer, Corporate, Home Office).
-- Product Details: Categories, subcategories, product IDs, and product names.
-- Transaction Data: Order dates, shipping dates, sales amounts, quantities, discounts, and profit margins.
-- Regional Insights: Geographic regions, states, cities, and postal codes linked to transactions.
-- Shipping Information: Shipping modes and associated delivery times.
+Dataset includes 4 different related tables including: transaction information, products information, customers information, returned orders of customers purchasing products from 2014 to 2017 and RFM classification
+- Transaction information: 
+![image](https://github.com/user-attachments/assets/32b4c9a5-b674-4caf-b926-aa5dbf09b375)
+- Products information:
+![image](https://github.com/user-attachments/assets/d9906e18-96e1-4f6a-a98f-efdc55fe360f)
+- Customers information:
+![image](https://github.com/user-attachments/assets/44aa4ff3-c9dd-4d1c-aece-276fa3966e31)
+- Returned orders: We have to filter orders that were not returned before RFM analysis.
+![image](https://github.com/user-attachments/assets/48ad4743-88fc-4cd3-8dac-d5f0310ee3a5)
+- RFM classification: We need to split each RFM score to single rows
+![image](https://github.com/user-attachments/assets/1c7ba0a6-9da7-4d6d-a464-4dd17e06ed25)
 
-This dataset aims to support analysis of customer segments by identifying product preferences, evaluating regional performance, and uncovering category trends, enabling the Superstore Giant to design targeted marketing strategies and enhance overall business performance.
-
-Dataset is available [here](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
+Dataset is available in [kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
 
 ## II.  Data Preparation:
 
 ## III. Data Visualization:
+![image](https://github.com/user-attachments/assets/fa3a570d-8825-417a-8a00-cc013da18639)
+![image](https://github.com/user-attachments/assets/2101ef5a-8a6a-4abf-9dcd-df33c1887e58)
+-At risk
+![image](https://github.com/user-attachments/assets/5a62df83-9673-4702-95e7-5ad3c811be6f)
+-Potential Customers
+![image](https://github.com/user-attachments/assets/aa3cff06-f1bc-4ba3-93d3-e4b95c6fda71)
 
 ## IV. Insights:
 
