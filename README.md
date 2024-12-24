@@ -69,14 +69,14 @@ Formula: Recency = Reference Date - Last Purchase Date
 
 ![image](https://github.com/user-attachments/assets/5a62df83-9673-4702-95e7-5ad3c811be6f)
 ![image](https://github.com/user-attachments/assets/cf990434-997d-4f2a-92a8-e9dd2287ac79)
-![image](https://github.com/user-attachments/assets/4e802515-ca9f-46bd-8ab6-2d0316f3ea7a)
-
+![image](https://github.com/user-attachments/assets/8159ffe7-4684-47d2-96b1-18c66da588a3)
 
 - Potential Customers:
 
 ![image](https://github.com/user-attachments/assets/aa3cff06-f1bc-4ba3-93d3-e4b95c6fda71)
 ![image](https://github.com/user-attachments/assets/27ea9aa1-97f4-4a25-b04c-4499ca7f4470)
-![image](https://github.com/user-attachments/assets/62be1821-b824-4bdf-b2ca-2abf604b50dc)
+![image](https://github.com/user-attachments/assets/a93a1464-1bd0-4c5c-a76b-66bef0641ad3)
+
 
 
 
@@ -94,13 +94,38 @@ Formula: Recency = Reference Date - Last Purchase Date
 => In this marketing strategy, SuperStore should focus on converting Potential Loyalists into Loyal customers and Champions. Additionally, there should be a strategy in place to reconnect with customers in the At-Risk segment.
 ### 3. Potential Loyalist and At Risk segments:
 #### 3.1 Potential Loyalist:
-- The revenue in 2017 deceased from 155.160$ to 111.242$ and the average value of each orders decreased by 16.53% either(from 644$ to 537$)
-- In two categories Furniture and Technology, we can be easy to see that the average value of each orders decreased 21% from (from 264$ to 208$) and 25% ( from 280$ to 209$)
-- The numbers of orders increased 
+- Revenue Performance: In 2017, revenue decreased from $61,744 to $83,128, with the average value per order declining by 17.99% (from $278 to $227).
+- Category Insights:
+  - In the Furniture category, the average value per order decreased by 21% (from $264 to $208).
+  - In the Technology category, the average value per order dropped by 25% (from $280 to $209).
+- Segment Analysis:
+  - Consumer Segment: In 2017, the number of orders increased by 85.7% (from 112 to 208 orders). However, the average sales value per order decreased by 18.2% (from $272.23 to $222.72).
+  - Corporate Segment: In 2017, the number of orders rose by 40% (from 70 to 98 orders), but the average sales value per order decreased by 34.9% (from $305.58 to $198.79).
+  - Home Office Segment: In 2017, the number of orders grew by 52.5% (from 40 to 61 orders), and interestingly, the average sales value per order increased by 15.1% (from $246.63 to $283.97).
+- Overall Performance: Across all segments, the total number of orders increased by 65.3% (from 222 to 367 orders). However, the overall average sales value per order declined by 18.5% (from $278.13 to $226.51).
 
 #### 3.2 At Risk:
-- 
+- Revenue Performance: In 2017, revenue decreased from $155,160 to $111,242, with the average value per order declining by 16.53% (from $644 to $537).
+- Category Insights:
+  - In the Furniture category, the average sales value increased by 18.17% in 2017 (from $341.77 to $403.85 ).
+  - In the Office Supplies category , the average sales value decreased by 17.57% in 2017 ($172.01 USD to $141.79).
+  - In the Technology category, the average sales value dropped significantly by 39.12% in 2017 ($858.71 USD to $523.01).
+- Segment Analysis:
+  - Consumer Segment: In 2017, the number of orders slightly decreased by 2.91% (from 103 to 100 orders). The average sales value per order dropped significantly by 32.23% (from 531.13 USD to 359.88 USD).
+  - Corporate Segment: In 2017, the number of orders decreased by 25.88% (from 85 to 63 orders). The average sales value per order also decreased by 16.96% (from 898.97 USD to 746.46 USD).
+  - Home Office Segment: In 2017, the number of orders decreased by 16.98% (from 53 to 44 orders). However, the average sales value per order increased by 41.43% (from 453.59 USD to 641.52 USD).
+- Grand Total: Across all segments, the total number of orders decreased by 14.11% (from 241 to 207 orders).
+The overall average sales value per order also declined by 16.54% (from 643.82 USD to 537.40 USD).
 ## V. Recommendations:
-
+### 1. At-Risk Segment:
+- Reconnect with Customers: Send personalized emails or messages with special offers to encourage them to shop again.
+- Improve Loyalty Programs: Offer rewards like discounts, free delivery, or points for their next order to bring them back.
+- Ask for Feedback: Reach out to these customers to understand their needs and why they stopped buying. Use this to improve their experience.
+- Targeted Promotions: Use their past buying data to suggest products or services they may still need.
+### 2.Potential Loyalist Segment:
+- Encourage Loyalty: Provide benefits for returning customers, like small discounts or free gifts, to make them feel valued.
+- Build Relationships: Use their name in communications and recommend products they might like based on past purchases.
+- Offer Exclusive Deals: Give them access to sales or new products before others to make them feel special.
+- Focus on Service: Ensure their experience is smooth, from buying to delivery, so they continue to shop with confidence.
 
 
