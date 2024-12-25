@@ -1,4 +1,4 @@
-# Excel RFM Analysis
+# Retail Chain RFM Analysis: Customer Segmentation and Insights
 ## I. Introduction:
 ### 1. About RFM Analysis:
 RFM (Recency, Frequency, Monetary) analysis is a proven marketing model for behavior-based customer segmentation. It groups customers based on their transaction history:
@@ -15,7 +15,8 @@ These three RFM factors can be used to reasonably predict how likely (or unlikel
 - This approach will support launching marketing campaigns to express gratitude to loyal customers and nurture potential customers into becoming long-term supporters of the company.
 
 ### 3. Dataset:
-Dataset includes 4 different related tables including: transaction information, products information, customers information, returned orders of customers purchasing products from 2014 to 2017 and RFM classification
+
+Dataset from a Superstore(retail chain) includes 4 different related tables including: transaction information, products information, customers information, returned orders of customers purchasing products from 2014 to 2017 and RFM classification
 - Transaction information: 
 ![image](https://github.com/user-attachments/assets/32b4c9a5-b674-4caf-b926-aa5dbf09b375)
 - Products information:
