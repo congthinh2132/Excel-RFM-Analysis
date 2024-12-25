@@ -117,12 +117,13 @@ Formula: Recency = Reference Date - Last Purchase Date
 - Grand Total: Across all segments, the total number of orders decreased by 14.11% (from 241 to 207 orders).
 The overall average sales value per order also declined by 16.54% (from 643.82 USD to 537.40 USD).
 ## V. Recommendations:
+In this marketing strategy, SuperStore should focus on enhancing their Recency and Frequency metrics. The primary goal should be to prioritize the conversion of Potential Loyalists into Loyal Customers and Champions. Along with that, a dedicated strategy is needed to re-engage customers in the At-Risk segment to regain their loyalty.
 ### 1. At-Risk Segment:
 - Reconnect with Customers: Send personalized emails or messages with special offers to encourage them to shop again.
 - Improve Loyalty Programs: Offer rewards like discounts, free delivery, or points for their next order to bring them back.
 - Ask for Feedback: Reach out to these customers to understand their needs and why they stopped buying. Use this to improve their experience.
 - Targeted Promotions: Use their past buying data to suggest products or services they may still need.
-### 2.Potential Loyalist Segment:
+### 2. Potential Loyalist Segment:
 - Encourage Loyalty: Provide benefits for returning customers, like small discounts or free gifts, to make them feel valued.
 - Build Relationships: Use their name in communications and recommend products they might like based on past purchases.
 - Offer Exclusive Deals: Give them access to sales or new products before others to make them feel special.
